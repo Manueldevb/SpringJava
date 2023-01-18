@@ -11,4 +11,3 @@ public class PlatziMarketApplication {
 	}
 
 }
-Este es una prueba
